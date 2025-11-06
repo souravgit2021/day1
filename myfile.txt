@@ -1,2 +1,3 @@
 1st Line
 2nd from master
+3rd Line from master
