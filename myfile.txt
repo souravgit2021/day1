@@ -1,10 +1,10 @@
+
+1st from dev
+2nd from dev
+3rd from dev
+4th from dev
+5th from dev
+
 1st Line
 2nd from master
-3rd Line from master
-4th from master
-5th from Mater
 
-Code for ammend Practice
-
-
-Testing giit hook
