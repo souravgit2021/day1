@@ -1,0 +1,7 @@
+
+
+*.sh       @abc
+
+src_code    @mnp
+
+depen/*.md    @qwerty
