@@ -1,7 +1,9 @@
 
 
-*.sh       @abc
+*.sh       @souravgit2021
 
-src_code    @mnp
+src_code    @souravgit2021
 
-depen/*.md    @qwerty
+depen/*.md    @souravgit2021
+
+*.txt       @souravgit2021
